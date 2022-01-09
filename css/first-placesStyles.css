@@ -1,7 +1,7 @@
 h1 {
-  color: red;
+  color: aquamarine;
   text-align: center;
-  font-weight: 100;
+  font-weight: 900;
 }
 
 h2 {
@@ -16,4 +16,10 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+  list-style-type: none;
+}
+
+body {
+  text-align: center;
+  background-color: grey;
 }
